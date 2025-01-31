@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">BMI</string>
+    <string name="title_text">Калькулятор индекса массы тела (женщины)</string>
+    <string name="weight_input_text">Введите рост (см)</string>
+    <string name="height_input_text">Введите вес (кг)</string>
+    <string name="calculate_text">РАССЧИТАТЬ</string>
+    <string name="weight_text">Р O C T</string>
+    <string name="height_text">B E C:</string>
+    <string name="normal"> Норма </string>
+    <string name="over"> Незначительный избыточный вес</string>
+    <string name="superover"> Ожирение, опасно для здоровья </string>
+    <string name="under"> Дефицит веса </string>
+    <string name="input_data_height_text">Введите рост</string>
+    <string name="input_data_weight_text">Введите вес</string>
+</resources>
